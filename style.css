@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 0;
+  color: #f3f8fc;
+  background-color: #0d1a2d;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nft,
+h3:hover {
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 50px;
+  color: #f3f8fc;
+}
+
+span {
+  color: #8297b4;
+}
+
+p {
+  font-size: 30px;
+}
+
+.p {
+  color: #8297b4;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  align-items: center;
+  background-color: #15273f;
+  padding: 4%;
+  border-radius: 20px;
+}
+
+.nft {
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+.bar {
+  float: left;
+}
+
+hr {
+  height: 1px;
+  background-color: #8297b4;
+  border: none;
+}
+
+.clock p {
+  color: #8297b4;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.bar p {
+  color: #09fcfa;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.clock {
+  float: right;
+}
+
+.text {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.profile {
+  border: white 3px solid;
+  border-radius: 50%;
+}
+
+.bottom {
+  clear: both;
+}
+
+.foot {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+}
